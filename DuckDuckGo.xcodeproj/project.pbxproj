@@ -89,6 +89,10 @@
 		4EC8D8581BB4A92500BE8903 /* DDGGroupedTableViewCellValue1.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EC8D85A1BB4A92500BE8903 /* DDGGroupedTableViewCellValue1.xib */; };
 		4EC8D85B1BB4A92E00BE8903 /* DDGBangInfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EC8D85D1BB4A92E00BE8903 /* DDGBangInfo.xib */; };
 		4EC8D85E1BB4A93300BE8903 /* DDGLaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 4EC8D8601BB4A93300BE8903 /* DDGLaunchScreen.xib */; };
+		4EF22C9A1C25896600F81ECA /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EF22C961C25896600F81ECA /* OpenSans-Bold.ttf */; };
+		4EF22C9B1C25896600F81ECA /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EF22C971C25896600F81ECA /* OpenSans-Light.ttf */; };
+		4EF22C9C1C25896600F81ECA /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EF22C981C25896600F81ECA /* OpenSans-Regular.ttf */; };
+		4EF22C9D1C25896600F81ECA /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4EF22C991C25896600F81ECA /* OpenSans-Semibold.ttf */; };
 		5B044EBC16D392B6005A9584 /* Accounts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B044EBB16D392B6005A9584 /* Accounts.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		5B044EE316D392CE005A9584 /* AdSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B044EE216D392CE005A9584 /* AdSupport.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
 		5B044EE516D392F0005A9584 /* libsqlite3.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 5B044EE416D392F0005A9584 /* libsqlite3.dylib */; settings = {ATTRIBUTES = (Weak, ); }; };
@@ -299,10 +303,6 @@
 		83F32269149290EF00A61BC5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 83F32268149290EF00A61BC5 /* main.m */; };
 		83F3226D149290EF00A61BC5 /* DDGAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 83F3226C149290EF00A61BC5 /* DDGAppDelegate.m */; };
 		83F3229E1492EE1B00A61BC5 /* DDGSearchController.m in Sources */ = {isa = PBXBuildFile; fileRef = 83F3229C1492EE1B00A61BC5 /* DDGSearchController.m */; };
-		8409F5EE1B5E917E001F897F /* proximanova-bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8409F5EA1B5E917E001F897F /* proximanova-bold.otf */; };
-		8409F5EF1B5E917E001F897F /* proximanova-light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8409F5EB1B5E917E001F897F /* proximanova-light.otf */; };
-		8409F5F01B5E917E001F897F /* proximanova-regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8409F5EC1B5E917E001F897F /* proximanova-regular.otf */; };
-		8409F5F11B5E917E001F897F /* proximanova-semibold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8409F5ED1B5E917E001F897F /* proximanova-semibold.otf */; };
 		8410AD551BB7353500CC83DB /* DDGImageActivityItemProvider.m in Sources */ = {isa = PBXBuildFile; fileRef = 8410AD541BB7353500CC83DB /* DDGImageActivityItemProvider.m */; };
 		845993321B4BD41B006F2CE7 /* DDGProgressBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 845993311B4BD41B006F2CE7 /* DDGProgressBar.m */; };
 		8464976C1B3D3FE600BAF256 /* DDGHomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8464976A1B3D3FE600BAF256 /* DDGHomeViewController.m */; };
@@ -674,6 +674,10 @@
 		4EC8D86E1BB4A94600BE8903 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/DDGBangInfo.xib; sourceTree = "<group>"; };
 		4EC8D86F1BB4A94600BE8903 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/DDGLaunchScreen.xib; sourceTree = "<group>"; };
 		4EC8D8701BB4A94600BE8903 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4EF22C961C25896600F81ECA /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		4EF22C971C25896600F81ECA /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		4EF22C981C25896600F81ECA /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		4EF22C991C25896600F81ECA /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
 		5B044EBB16D392B6005A9584 /* Accounts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accounts.framework; path = System/Library/Frameworks/Accounts.framework; sourceTree = SDKROOT; };
 		5B044EE216D392CE005A9584 /* AdSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AdSupport.framework; path = System/Library/Frameworks/AdSupport.framework; sourceTree = SDKROOT; };
 		5B044EE416D392F0005A9584 /* libsqlite3.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.dylib; path = usr/lib/libsqlite3.dylib; sourceTree = SDKROOT; };
@@ -1719,6 +1723,10 @@
 		8409F5E91B5E914C001F897F /* Fonts */ = {
 			isa = PBXGroup;
 			children = (
+				4EF22C961C25896600F81ECA /* OpenSans-Bold.ttf */,
+				4EF22C971C25896600F81ECA /* OpenSans-Light.ttf */,
+				4EF22C981C25896600F81ECA /* OpenSans-Regular.ttf */,
+				4EF22C991C25896600F81ECA /* OpenSans-Semibold.ttf */,
 				8409F5EA1B5E917E001F897F /* proximanova-bold.otf */,
 				8409F5EB1B5E917E001F897F /* proximanova-light.otf */,
 				8409F5EC1B5E917E001F897F /* proximanova-regular.otf */,
@@ -1781,7 +1789,7 @@
 				LastUpgradeCheck = 0630;
 				TargetAttributes = {
 					83F32257149290EF00A61BC5 = {
-						DevelopmentTeam = HKE973VLUW;
+						DevelopmentTeam = D5CFXXDS5E;
 					};
 				};
 			};
@@ -1831,7 +1839,6 @@
 				838E906A149A76D400C11E41 /* Localizable.strings in Resources */,
 				4C1FD7EE1548FF65006B2511 /* arrowRight18x18.png in Resources */,
 				4C1FD7F21548FF65006B2511 /* chevron15x27.png in Resources */,
-				8409F5F11B5E917E001F897F /* proximanova-semibold.otf in Resources */,
 				4C1FD7FE1548FF65006B2511 /* search_field.png in Resources */,
 				4C1FD7FF1548FF65006B2511 /* search_field@2x.png in Resources */,
 				4C1FD8021548FF65006B2511 /* spacer8x16.png in Resources */,
@@ -1855,7 +1862,6 @@
 				4CA9C48A15CC82A3001F3231 /* table_view_shadow_bottom@2x.png in Resources */,
 				4CA9C48B15CC82A3001F3231 /* table_view_shadow_bottom.png in Resources */,
 				4C02E2E11623C9F70010F06C /* bg_divider.png in Resources */,
-				8409F5EF1B5E917E001F897F /* proximanova-light.otf in Resources */,
 				4C02E2E21623C9F70010F06C /* bg_divider@2x.png in Resources */,
 				83BAB47E1636DB6600DF1A6D /* spacer64x64.png in Resources */,
 				83CD213016374049000220B0 /* section_tile.png in Resources */,
@@ -1865,6 +1871,7 @@
 				83864C46163838AD00F66AAA /* icon_saved-pages.png in Resources */,
 				83864C47163838AD00F66AAA /* icon_settings.png in Resources */,
 				83864C4B1638398F00F66AAA /* icon_home@2x.png in Resources */,
+				4EF22C9B1C25896600F81ECA /* OpenSans-Light.ttf in Resources */,
 				83864C4C1638398F00F66AAA /* icon_saved-pages@2x.png in Resources */,
 				4EC8D8521BB4A91A00BE8903 /* DDGTabViewController.xib in Resources */,
 				83864C4D1638398F00F66AAA /* icon_settings@2x.png in Resources */,
@@ -1883,7 +1890,6 @@
 				4EC8D8341BB4A8D000BE8903 /* DuckDuckGo.storyboard in Resources */,
 				4C1D95E6163F3D2100F7A0B9 /* bg_menu-items@2x.png in Resources */,
 				4C1D95E7163F3D2100F7A0B9 /* bg_history-items.png in Resources */,
-				8409F5F01B5E917E001F897F /* proximanova-regular.otf in Resources */,
 				4C1D95E8163F3D2100F7A0B9 /* bg_home-bar@2x.png in Resources */,
 				4C1D95E9163F3D2100F7A0B9 /* bg_home-bar.png in Resources */,
 				4C1D95EA163F3D2100F7A0B9 /* bg_menu-items.png in Resources */,
@@ -1892,6 +1898,7 @@
 				83EFD3461656832C005E19CC /* search_icon@2x.png in Resources */,
 				8333D63716666CA100571C59 /* spacer23x23.png in Resources */,
 				8383E8E0167245BA008160E5 /* new_bg_history-items.png in Resources */,
+				4EF22C9A1C25896600F81ECA /* OpenSans-Bold.ttf in Resources */,
 				8383E8E1167245BA008160E5 /* new_bg_history-items@2x.png in Resources */,
 				8383E8E2167245BA008160E5 /* new_bg_menu-items.png in Resources */,
 				8383E8E3167245BA008160E5 /* new_bg_menu-items@2x.png in Resources */,
@@ -1902,12 +1909,12 @@
 				4EC8D84F1BB4A91400BE8903 /* HomeSwipeView.xib in Resources */,
 				5B88DBAF16DB7BA7007A935D /* swipe-open-in-safari.png in Resources */,
 				5B88DBB016DB7BA7007A935D /* swipe-open-in-safari@2x.png in Resources */,
-				8409F5EE1B5E917E001F897F /* proximanova-bold.otf in Resources */,
 				5B88DBB116DB7BA7007A935D /* swipe-save.png in Resources */,
 				5B88DBB216DB7BA7007A935D /* swipe-save@2x.png in Resources */,
 				5B88DBB316DB7BA7007A935D /* swipe-share.png in Resources */,
 				5B88DBB416DB7BA7007A935D /* swipe-share@2x.png in Resources */,
 				5B88DBB516DB7BA7007A935D /* swipe-un-save.png in Resources */,
+				4EF22C9C1C25896600F81ECA /* OpenSans-Regular.ttf in Resources */,
 				5B88DBB616DB7BA7007A935D /* swipe-un-save@2x.png in Resources */,
 				5BB1599716E0F2FE00C2A0F9 /* Default.png in Resources */,
 				5BB1599816E0F2FE00C2A0F9 /* Default@2x.png in Resources */,
@@ -2001,6 +2008,7 @@
 				C1A97EE5176BD3560099EDA1 /* btn-bg_bang_example_query.png in Resources */,
 				C1A97EE6176BD3560099EDA1 /* btn-bg_bang_example_query@2x.png in Resources */,
 				C1A97EE8176BD7AB0099EDA1 /* btn-bg_bang-default.png in Resources */,
+				4EF22C9D1C25896600F81ECA /* OpenSans-Semibold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -2588,6 +2596,7 @@
 					"-ObjC",
 					"-all_load",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.duckduckgo.astavrow.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
@@ -2721,6 +2730,7 @@
 					"-ObjC",
 					"-all_load",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.duckduckgo.astavrow.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
@@ -2757,6 +2767,7 @@
 					"-ObjC",
 					"-all_load",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.duckduckgo.astavrow.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
@@ -2826,6 +2837,7 @@
 					"-ObjC",
 					"-all_load",
 				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.duckduckgo.astavrow.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				RUN_CLANG_STATIC_ANALYZER = YES;
